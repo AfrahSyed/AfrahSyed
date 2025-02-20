@@ -1,7 +1,4 @@
 ## About Me 👋
-
-<!--
-**AfrahSyed/AfrahSyed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 🚀 Afrah Syed
 👋 Hi there! I'm Afrah Syed, a Computer Science student at FAST-NUCES.
 🔹 Passionate about technology, problem-solving, and building impactful solutions
@@ -17,4 +14,6 @@ Tools & Platforms: Git, GitHub, VS Code, Linux
 📫 Let's Connect
 💼 www.linkedin.com/in/afrah-syed-98213a30a
 📧 afrahsyed019@gmail.com
+
+
 
