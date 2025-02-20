@@ -10,7 +10,7 @@ But that's not all – I am also a curious explorer, diving into new technologie
 Languages: C++, C, Java, JavaScript, Python <br>
 Frontend: React.js, HTML, CSS<br>
 Backend & Databases: Java, SQL<br>
-Tools & Platforms: Git, GitHub, VS Code, Linux<br>
+Tools & Platforms: Git, GitHub, VS Code, Linux (Ubuntu)<br>
 
 ### 📫 Let's Connect
 💼 www.linkedin.com/in/afrah-syed-98213a30a<br>
