@@ -2,7 +2,6 @@
 ## 🚀 Afrah Syed
 
 👋 Hey there! I’m **Afrah Syed**, a Computer Science explorer at FAST-NUCES 🚀
-💻 Code whisperer • Problem solver • Tech dreamer
 
 ✨ I speak fluent **C++, C, Java, JavaScript, Python, React.js**, and a few dialects of **databases** 😉
 🔍 Whether it’s debugging the universe, building pixel-perfect UIs, or crafting smart algorithms — I’m *all in*.
